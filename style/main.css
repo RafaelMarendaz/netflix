@@ -13,6 +13,7 @@
 body{
     background-color: var(--preto);
     font-family: 'Times New Roman', Times, Serif;
+    color: white;
 }
 
 header .container{
